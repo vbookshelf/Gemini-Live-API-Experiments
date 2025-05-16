@@ -16,3 +16,10 @@
 
 - Cookbook: Multimodal Live API - Quickstart<br>
   https://github.com/google-gemini/cookbook/blob/main/quickstarts/Get_started_LiveAPI.ipynb
+
+<br>
+
+## Notes
+
+1- It appears that chat context memory is enabled by default - the llm remembers past conversation turns.
+2- Installing PyAudio on a mac is not easy.
