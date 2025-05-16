@@ -21,5 +21,5 @@
 
 ## Notes
 
-1- It appears that chat context memory is enabled by default - the llm remembers past conversation turns.
+1- It appears that chat context memory is enabled by default - the llm remembers past conversation turns.<br>
 2- Installing PyAudio on a mac is not easy.
