@@ -26,6 +26,9 @@
 - Gemini API Docs<br>
   https://ai.google.dev/gemini-api/docs/live
 
+- Live API - WebSockets API reference<br>
+  https://ai.google.dev/api/live
+
 - Cookbook: Multimodal Live API - Quickstart<br>
   https://github.com/google-gemini/cookbook/blob/main/quickstarts/Get_started_LiveAPI.ipynb
 
