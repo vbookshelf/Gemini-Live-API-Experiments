@@ -17,6 +17,10 @@
 - Cookbook: Multimodal Live API - Quickstart<br>
   https://github.com/google-gemini/cookbook/blob/main/quickstarts/Get_started_LiveAPI.ipynb
 
+- Cookbook: Google code to run locally to test the Live API<br>
+(Wear earphones to prevent the bot from hearing itself speak and then responding to what it said.)<br>
+https://github.com/google-gemini/cookbook/blob/main/quickstarts/Get_started_LiveAPI.py
+
 <br>
 
 ## Notes
