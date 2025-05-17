@@ -9,6 +9,9 @@
 - Exp1 - Text in text out<br>
   https://github.com/vbookshelf/Gemini-Live-API-Experiments/tree/main/Exp1-Test%20in%20text%20out
 
+- Exp2 - Text in audio out - no streaming<br>
+  https://github.com/vbookshelf/Gemini-Live-API-Experiments/tree/main/Exp2-Text%20in%20audio%20out%20no%20streaming
+
 
 <br>
 
