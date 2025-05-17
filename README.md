@@ -12,6 +12,9 @@
 - Exp2 - Text in audio out - no streaming<br>
   https://github.com/vbookshelf/Gemini-Live-API-Experiments/tree/main/Exp2-Text%20in%20audio%20out%20no%20streaming
 
+- Exp3 - Text in audio streamed out<br>
+  https://github.com/vbookshelf/Gemini-Live-API-Experiments/tree/main/Exp3-Text%20in%20audio%20streamed%20out
+
 
 <br>
 
