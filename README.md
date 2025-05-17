@@ -1,11 +1,14 @@
 # Gemini Live API Experiments
 
 ### My experiments with the Gemini Live API
-
 <br>
 <br>
 
 ## Experiments
+
+- Exp1 - Text in text out<br>
+  https://github.com/vbookshelf/Gemini-Live-API-Experiments/tree/main/Exp1-Test%20in%20text%20out
+
 
 <br>
 
