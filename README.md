@@ -15,6 +15,9 @@
 - Exp3 - Text in audio streamed out<br>
   https://github.com/vbookshelf/Gemini-Live-API-Experiments/tree/main/Exp3-Text%20in%20audio%20streamed%20out
 
+- Exp4 - Run the get started live api cookbook code<br>
+  https://github.com/vbookshelf/Gemini-Live-API-Experiments/tree/main/Exp4-Run%20the%20get%20started%20live%20api%20cookbook%20code
+
 
 <br>
 
